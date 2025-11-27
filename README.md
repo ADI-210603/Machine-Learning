@@ -1,3 +1,5 @@
+LOAN APPROVAL PREDICTION
+
 📘 Project Overview
 
 This project builds a Loan Approval Prediction System using Machine Learning.
